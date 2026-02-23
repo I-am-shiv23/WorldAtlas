@@ -34,9 +34,9 @@ const Footer = () => {
           <div className="grid grid-two-cols">
             <div className="copyright-text">
               <p>
-                Copyright &copy; 2024, All Right Reserved
-                <NavLink to="https://thapatechnical.shop/" target="_blank">
-                  ThapaTechnical
+                Copyright &copy; 2025, All Right Reserved
+                <NavLink to="#" target="_blank">
+                  
                 </NavLink>
               </p>
             </div>
@@ -49,7 +49,7 @@ const Footer = () => {
 
                 <li>
                   <NavLink
-                    to="https://www.instagram.com/thapatechnical/"
+                    to="#"
                     target="_blank"
                   >
                     Social
@@ -57,7 +57,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="https://thapatechnical.shop/source-code"
+                    to="#"
                     target="_blank"
                   >
                     Source Code
